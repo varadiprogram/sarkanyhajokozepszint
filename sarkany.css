@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+	background-image: url('viztukor.png');
+}
+
+
+h1{
+  color: purple;
+  text-shadow: white 1px 1px 1px;
+}
+
+.kepkeret img{
+  border-radius: 15px;
+}
+
+.kepkeret{
+  border-style: solid;
+float: right;
+background-color: white;
+margin-right: 50px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #1c1c1c;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.kepkeret p{
+  text-align: center;
+}
+
+
+
+.masodikresz{
+  margin-top: 8%;
+}
+
+.margin{
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+a{
+  text-decoration: none;
+}
+
+.hatter{
+  border-radius: 100px 0px 100px 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+}
+
+ul,li{
+  margin-top: 30px;
+}
+
